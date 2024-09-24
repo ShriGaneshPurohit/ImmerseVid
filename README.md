@@ -29,7 +29,7 @@ ImmerseVid is an innovative iOS application that leverages Augmented Reality (AR
 
 ## Documentation
 
-You can find the detailed project report [here](./path/to/Project-Report.pdf).
+You can find the detailed project report [here](./path/to/Project%20Report.pdf).
 
 ---
 
